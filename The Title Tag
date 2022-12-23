@@ -1,0 +1,14 @@
+<!Doctype html>
+<html>
+<head>
+    <title>Hello World</title>
+</head>
+<body>
+    <h1>The Title Tag</h1>
+    It is not visible
+    <br>
+    but it provides information
+    <br>
+    to the browser.
+</body>
+</html>

@@ -1,0 +1,20 @@
+<!Doctype html>
+<html>
+    <body>
+        <h3>Register account</h3>
+        <form>
+        <fieldset>
+            <legend>Personal info</legend>
+                Name: <input type="text"><br>
+                Email: <input type="email"><br>
+                Phone: <input type="tel"><br>
+        </fieldset>
+        <fieldset>
+            <legend>Account</legend>
+                Username: <input type="text"><br>
+                Password: <input type="password"><br>
+        </fieldset>
+        <button>Register</button>
+        </form>
+    </body>
+</html>

@@ -1,0 +1,11 @@
+<!Doctype html>
+<head></head>
+<body>
+    <h1>The Head</h1>
+    Is a cointainer for information about a webpage,
+    <br>
+    same as the title.
+    <br>
+    It goes before the body tag
+</body>
+</html>

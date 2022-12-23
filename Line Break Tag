@@ -1,0 +1,12 @@
+<!Doctype html>
+<html>
+    <body>
+        <h1>Line Break Tag</h1>
+        In HTML, the "br" element creates a line break.
+        <br>
+        You can place it anywhere in the text.
+        <br>
+        doesn't need a close option it happens automatically.
+         </body>
+     </html>
+
